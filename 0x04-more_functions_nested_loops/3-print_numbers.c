@@ -10,6 +10,6 @@ void print_numbers(void)
 
 	for (i = 49; i < 60; i++)
 	{
-		_putchar(i):
+		_putchar(i);
 	}
 	_putchar('\n');
