@@ -1,1 +1,1 @@
-print square
+added a new triangle
