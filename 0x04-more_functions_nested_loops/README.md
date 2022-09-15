@@ -1,1 +1,1 @@
-added a new triangle
+triangle
