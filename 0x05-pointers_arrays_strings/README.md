@@ -1,1 +1,1 @@
-prints half of a string
+print n integers:
