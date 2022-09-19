@@ -1,1 +1,1 @@
-string lenth
+prints a string
