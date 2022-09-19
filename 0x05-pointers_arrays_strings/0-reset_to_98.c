@@ -1,12 +1,18 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
- * reset_to_98 - updates the value 
+ * _reset_to_98 - updates the value
  * points to to 98
  * @n: parameter
  */
 void reset_to_98(int *n)
-{ 
-	*n =98;
-	return 0;
+{
+	int n;
+
+	n = 402;
+	printf("n=%d\n", n);
+	*n = 98;
+	printf("n=%d\n", *n);
+	return (0);
 }
