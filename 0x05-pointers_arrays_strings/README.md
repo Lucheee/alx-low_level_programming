@@ -1,1 +1,1 @@
-6-puts2.c
+prints half of a string
