@@ -1,1 +1,1 @@
-print n integers:
+9-strcpy.c
