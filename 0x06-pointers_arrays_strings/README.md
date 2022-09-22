@@ -1,1 +1,1 @@
-concatenates two strings
+1-strncat.c
